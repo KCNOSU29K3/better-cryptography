@@ -1,11 +1,11 @@
 # Contents
- - `AESencryption` contains Python scripts for implementing 128-bit CFB (Cipher Feedback Loop) AES encryption and logging.
+ - `better-cryptography` provides a simplified interface for encrypting files, folders, and strings, and a simplified interface for generating ciphering objects across multiple cryptography libraries. The library also provides various functions and methods used in cryptography and information security.
 
 
  # FAQ
 
   ## How do I install and import the package?
-  Install through the `pip3 install AESencryption` command. Import via `import Encryption` or `from Encryption import Cipher`.
+  Install through the `pip3 install better-cryptography` command. Import via `import better_cryptography` or `from better_cryptography import ...`.
 
 
   ## How do I report a bug?
